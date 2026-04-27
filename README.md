@@ -21,7 +21,9 @@
 
 ## 🏛️ Executive Summary
 
-The **Enterprise AI Model Registry (AI-MR)** is a comprehensive platform designed to provide a "Single Source of Truth" for every AI model, LLM, prompt, and agent within the organization. By centralizing versioning, lineage, and auditability, AI-MR transforms fragmented research into institutional intelligence.
+![AI Model Registry Architecture Showcase](assets/diagram.png)
+
+The **AI Model Registry (AI-MR)** is a comprehensive, production-hardened platform designed to manage the full lifecycle of AI assets—from raw model weights to production-ready LLM prompts. By centralizing versioning, lineage, and observability, AI-MR transforms fragmented research into a governed institutional intelligence layer.
 
 ### Strategic Business Outcomes
 - **Governed Scalability**: Deploy AI to production with 100% confidence in version provenance.
